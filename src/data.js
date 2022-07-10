@@ -332,10 +332,6 @@ export const footer = {
       href: '#',
     },
     {
-      icon: <IoLogoGithub />,
-      href: '#',
-    },
-    {
       icon: <IoLogoFacebook />,
       href: '#',
     },
